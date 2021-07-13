@@ -1,3 +1,13 @@
+"""
+This was my first Data Science Project. While writing my BSc thesis in Economics & Business economics, I was analyzing customer behavior on Kickstarter
+using an existing dataset. I wanted to research the effect of social connection between Kickstarter users on the success rate of a campaign and the use of media, 
+but there were no variables available in the existing dataset. This led me to code up a webscraper using Selenium that goes to a number of Kickstarter pages on a 
+given list to check how many images or videos are on the page and whether the campaign owner has backed any other campaigns.
+Selenium is a module that automatically accesses certain html tags and their contents. This allows you to scrape data that is provided through Javascript or Jquery, 
+which is something that Beautifulsoup doesn't do.
+"""
+
+
 # Importing packages
 from selenium import webdriver
 from os import chdir
@@ -28,12 +38,12 @@ for key in result:
     result[key] = str(rest)
     print(result[key])
 
-# We now have a list of 133412 Kickstarter pages we can iterate the scraper over
+# We now have a list of Kickstarter pages we can iterate the scraper over
 print(len(result))
 
 # Let's code ourselves a web scraper: the first one visits the website and counts the amount of pictures it finds
 driver = webdriver.Chrome(
-    'C:\\Users\\harol\\Desktop\\Thesis Scraper\\chromedriver')
+    'C:\\Users\\User\\Desktop\\Thesis Scraper\\chromedriver')
 imagecounter = []
 videocounter = []
 backercounter = []
@@ -53,6 +63,7 @@ for key in result:
     for video in videos:
         videolist.append(video.get_attribute('src'))
     videocounter.append(len(videolist))
+    
     # Now we get links to user profiles to check how many projects they've backed
     driver.get(userlink[0])
     # Check if the user page exists and find the backer count
