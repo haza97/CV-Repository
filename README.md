@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Harold Pijpelink
 
-You can use the [editor on GitHub](https://github.com/haza97/CV-Repository/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+_Data Science & Society MSc student living in Tilburg_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## :mortar_board: Education 
+**MSc Data Science & Society** _(Jan 2021 - Present)_ <br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**BSc Economics & Business Economics**  _(Aug 2018 - Jan 2021)_ <br>
+  
+   Including courses in Statistics, Econometrics and Governance <br>
+   
+**BA University College Roosevelt** _(Jan 2016 - Aug 2018)_ <br>
 
-```markdown
-Syntax highlighted code block
+## :computer: Technical Skills
+**Machine Learning** <br>
+- Keras and Tensorflow, Numpy. <br>
+**Python** <br>
+- Django, GeoPandas, , Gatsby, GraphQL. <br>
 
-# Header 1
-## Header 2
-### Header 3
+**R**
+**Miscellaneous**
+- I enjoy learning new basis, including Javascript and Node JS, and Haskell
 
-- Bulleted
-- List
+## :computer: Work
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haza97/CV-Repository/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Extra-curricular Activities
