@@ -68,7 +68,7 @@ Next to my studies I provided students with a two-day training course in prepara
 I believe that having some didactic skills makes me better at explaining my way of thinking and therefore a better collaborator in general<br>
 
 ## :pushpin: Extra-curricular Activities
-**Commission Affairs Officer at Roosevelt’s All Student Association** _Aug 20217 - Jul 2018 <br>
+**Commission Affairs Officer at Roosevelt’s All Student Association** _(Aug 20217 - Jul 2018)_ <br>
 I did a board year at University College Roosevelt's main student association.<br> 
 In this function I was responsible for one third of the commissions and societies at the association along with general board tasks.<br>
 This was in the form of about 15 hours of work per week next to my regular studies.<br>
