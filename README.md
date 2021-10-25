@@ -5,12 +5,13 @@ My Github page contains a portfolio with some of the Data Science projects that 
 
 ## :mortar_board: Education 
 **MSc Cognitive Science & Artificial Intelligence** at Tilburg University _(Aug 2021 - Present)_ <br>
-including a course in Bayesian Modeling.<br>
+This august I started a second MSc, taking several courses in Deep Learning, Cognitive Science and a course in Bayesian Modeling,.<br>
+I expect to graduate after the fall 2022 semester <br>
 <br>
 
 **MSc Data Science & Society** at Tilburg University _(Jan 2021 - Present)_ <br>
 I am in the process of finishing my MSc with a special interest in Machine Learning, Time-series analysis and some Natural Language Processing <br>
-Currently, my average grade is 8.5 <br>
+My average grade is 8.5 <br>
 My MSc Thesis is on using machine learning and adversarial stylometry to limit the mining of personal information through stylometric models<br>
 <br>
 **BSc Economics & Business Economics** at Utrecht University  _(Aug 2018 - Jan 2021)_ <br>
@@ -62,12 +63,12 @@ Because of this, I have some experience with Javascript, Node JS, Raspberry Pi a
 <br>
 <br>
 ## :office: Work
-**Exam Training at Lyceo** _(Jan 2021 - Present)_ <br>
-Next to my studies I provide students with a two-day training course in preparation for their final high-school exams <br>
+**Exam Training at Lyceo** _(Jan 2021 - Aug 2021)_ <br>
+Next to my studies I provided students with a two-day training course in preparation for their final high-school exams <br>
 I believe that having some didactic skills makes me better at explaining my way of thinking and therefore a better collaborator in general<br>
 
 ## :pushpin: Extra-curricular Activities
-**Commission Affairs Officer at Roosevelt’s All Student Association** <br>
+**Commission Affairs Officer at Roosevelt’s All Student Association** _Aug 20217 - Jul 2018 <br>
 I did a board year at University College Roosevelt's main student association.<br> 
 In this function I was responsible for one third of the commissions and societies at the association along with general board tasks.<br>
 This was in the form of about 15 hours of work per week next to my regular studies.<br>
