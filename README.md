@@ -1,18 +1,17 @@
 # Harold Pijpelink
 _Data Science & Society MSc student living in Tilburg_ <br>
 <br>
-My Github page contains a portfolio with some of the Data Science projects that I am proud of. Please have a look at https://github.com/haza97/CV-Repository!  <br>
 
 ## :mortar_board: Education 
 **MSc Cognitive Science & Artificial Intelligence** at Tilburg University _(Aug 2021 - Present)_ <br>
-This august I started a second MSc, taking several courses in Deep Learning, Cognitive Science and a course in Bayesian Modeling,.<br>
+This august I started a second MSc, taking several courses in Deep Learning, Deep Reinforcement Learning, Cognitive Science,in Bayesian Modeling,.<br>
 I expect to graduate after the fall 2022 semester <br>
 <br>
 
 **MSc Data Science & Society** at Tilburg University _(Jan 2021 - Present)_ <br>
 I am in the process of finishing my MSc with a special interest in Machine Learning, Time-series analysis and some Natural Language Processing <br>
 My average grade is 8.5 <br>
-My MSc Thesis is on using machine learning and adversarial stylometry to limit the mining of personal information through stylometric models<br>
+My MSc Thesis, expected to be completed in May 2022, is the improvement of prosody in Text-To-Speech systems using Deep Learning models<br>
 <br>
 **BSc Economics & Business Economics** at Utrecht University  _(Aug 2018 - Jan 2021)_ <br>
 I obtained my BSc with an average grade of 7.4. <br>
@@ -77,4 +76,4 @@ This was in the form of about 15 hours of work per week next to my regular studi
 Dutch: Native Speaker <br>
 English: Near-Native Speaker/C2+ <br>
 French: B2 <br>
-Japanese: B2 <br>
+
